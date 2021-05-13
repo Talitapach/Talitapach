@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hii, i'm Talita Pacheco 🥰
 
-<!--
-**Talitapach/Talitapach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### I'm a Computer Science student 🖥️ 💙
 
-Here are some ideas to get you started:
+###### I'm starting to program. I love to learn new things and I'm always open to challenges 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ###### 📍 from Recife | PE
+
+- ###### 🌈 looking for happiness
+
+###### 🦋🦋🦋🦋
+
+<a href = "mailto: tltpach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/talita-pacheco-690216208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/Talitapach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
