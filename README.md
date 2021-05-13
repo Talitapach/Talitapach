@@ -2,15 +2,14 @@
 
 ###### I'm a Computer Science student 🖥️ 💙
 
-###### I'm starting to program. I love to learn new things and I'm always open to challenges 🧠
+###### I'm starting to program. I love to learn new things and i'm always open to challenges 🧠
 
 - ###### 📍 from Recife | PE
 
 - ###### 🌈 looking for happiness
 
-###### 🦋🦋🦋🦋
+🦋🦋🦋🦋
 
 <a href = "mailto: tltpach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/talita-pacheco-690216208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Talitapach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
