@@ -4,7 +4,7 @@
 
 ###### I'm starting to program. I love to learn new things and i'm always open to challenges 🧠
 
-- ###### 📍 from Recife | PE
+- ###### 📍 from Recife | Pernambuco
 
 - ###### 🌈 looking for happiness
 
