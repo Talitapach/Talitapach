@@ -2,7 +2,7 @@
 
 ###### I'm a Computer Science student 🖥️ 💙
 
-- ###### 📍 from Recife | Pernambuco
+- ###### 📍 PE | BR
 
 🦋🦋🦋
 
