@@ -2,8 +2,6 @@
 
 ###### I'm a Computer Science student 🖥️ 💙
 
-###### I'm starting to program. I love to learn new things and i'm always open to challenges 🧠
-
 - ###### 📍 from Recife | Pernambuco
 
 🦋🦋🦋
