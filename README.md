@@ -2,6 +2,8 @@
 
 ###### I'm a Computer Science student 🖥️ 💙
 
+![](https://komarev.com/ghpvc/?username=your-github-Talitapach&color=blue)
+
  <div>
   <a href="https://github.com/talitapach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talitapach&show_icons=true&theme=algolia&include_all_commits=true"/>
