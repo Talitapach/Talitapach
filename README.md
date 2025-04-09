@@ -1,4 +1,4 @@
-# Hii, i'm <a href="https://talitapacheco.vercel.app/" target="_blank">Talita Pacheco</a>
+# Hii, I'm <a href="https://talitapacheco.vercel.app/" target="_blank" rel="noopener noreferrer">Talita Pacheco</a>
 
 ###### I'm a Computer Science student 🖥️ 💙
 
